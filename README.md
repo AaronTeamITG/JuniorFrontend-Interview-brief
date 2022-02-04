@@ -15,9 +15,13 @@ Using the requirements listed above please re-create the [landing page design](h
 
 All visible form fields are required and you shouldn't be able to submit without all fields being filled, you are free to add any style additions you feel would be a welcome addition. Make sure that the form is responsive and still functions on mobile. 
 
+Please provide a link to a Github repository with your task inside along with any supporting comments or notes that you feel are appropriate.
+
 ### Optional
 If you have some extra time consider implementing some of the below, don't feel like this list should be completed but you should take some time to think about how you would implement them if required.
 
+ - Host the page on Netlify or Github pages (provide hosted URL with Github repo on submission)
  - Custom validation and error handling
+ - Google reCAPTCHA 
  - Pre-populating the form fields 
  - Regex
